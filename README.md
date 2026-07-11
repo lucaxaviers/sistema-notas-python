@@ -1,24 +1,20 @@
-## 📚 Cadastro de Alunos - Projeto Academico
+# sistema-notas-python
 
-## 💻 Sistema
-- Cadastrar alunos com suas notas teóricas e de projetos
-- Calcular média teórica, média prática e média final
-- Exibir o boletim completo de todos os alunos
-- Consultar informações de um aluno pelo nome
-- Mostrar o aluno com maior e menor média final
-- Calcular o percentual de alunos aprovados (média final acima de 5.0)
+📝 Projeto Acadêmico: Sistema em Python desenvolvido para o cálculo e gerenciamento de notas de estudantes.
 
-## 📍 Objetivo
-Praticar a criação de programas com:
-- Entrada e processamento de dados
-- Estruturas de repetição e decisão
-- Listas
-- Funções básicas em Python
+---
 
-## 👨🏻‍💻 Tecnologias Utilizadas
-- Python 
+## 🎯 Sobre o Projeto
+Este repositório contém artefatos desenvolvidos no contexto de engenharia de software / engenharia de computação. 
+O objetivo principal deste projeto é a consolidação de conhecimentos práticos em desenvolvimento, estrutura de dados, lógica de programação e arquitetura de sistemas.
 
-## 🙋 Desenvolvido Por
-- Mateus Oliveira
-- Lucas Xavier
-- Wanderley Vieira
+## 🛠️ Tecnologias e Conceitos Aplicados
+Este projeto explora de maneira aprofundada:
+- Construção de código limpo e manutenível.
+- Separação de responsabilidades (quando aplicável).
+- Estruturação semântica e boas práticas da linguagem utilizada.
+
+---
+
+> **Desenvolvido por Lucas Xavier.**  
+> *Foco em excelência técnica, rigor acadêmico e construção de arquiteturas modernas.*
